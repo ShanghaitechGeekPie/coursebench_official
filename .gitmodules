@@ -1,0 +1,6 @@
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/ShanghaitechGeekPie/coursebench-frontend
+[submodule "backend"]
+	path = backend
+	url = https://github.com/ShanghaitechGeekPie/coursebench-backend
