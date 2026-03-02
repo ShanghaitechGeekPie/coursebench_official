@@ -4,3 +4,6 @@
 [submodule "backend"]
 	path = backend
 	url = https://github.com/ShanghaitechGeekPie/coursebench-backend
+[submodule "frontend-next"]
+	path = frontend-next
+	url = git@github.com:ShanghaitechGeekPie/coursebench-next.git
